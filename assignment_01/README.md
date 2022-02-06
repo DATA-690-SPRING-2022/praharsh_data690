@@ -28,16 +28,10 @@ Education
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Amazon Robotics**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Worked as an ML Data Associate for Amazon Robotics where we used computer vision and AI to automate the Amazon fulfilment centers.
 
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
 
 **That Other Job You Had**
 
