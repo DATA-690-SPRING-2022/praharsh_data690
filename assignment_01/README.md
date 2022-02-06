@@ -18,8 +18,6 @@ Education
 2021-2023 (expected)
 :   **Masters, Data Science**; University of Maryland Baltimore County
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
 
 2015-2019
 :   **Bachelor of Technology, Electronics and Computer Engineering**; GITAM University
