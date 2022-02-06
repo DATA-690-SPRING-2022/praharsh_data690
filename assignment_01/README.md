@@ -6,7 +6,7 @@ Praharsh Kolluri
 
 -------------------     ----------------------------
 
-ph : 667-273-0995+                                                                                                    email-praharshkolluri@gmail.com
+ph : 667-273-0995/                                                                                                    email-praharshkolluri@gmail.com
 
 -------------------     ----------------------------
 :wave:
