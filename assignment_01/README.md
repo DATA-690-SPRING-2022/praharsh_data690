@@ -32,6 +32,9 @@ Experience
 :  dfdgdgd
 
    * Worked as an ML Data Associate for Amazon Robotics where we used computer vision and AI to automate the Amazon fulfilment centers.
+   * * These items can also contain lists, but you need to mind the
+  indentation levels in the markdown source.
+* Second item.
 
 
 **DRDO - DEFENCE RESEARCH AND DEVELOPMENT ORGANISATION**
