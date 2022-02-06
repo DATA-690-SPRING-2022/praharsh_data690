@@ -36,11 +36,13 @@ Worked as an ML Data Associate for Amazon Robotics where we used computer vision
 **DRDO - DEFENCE RESEARCH AND DEVELOPMENT ORGANISATION**
 
 Worked as an intern at DRDO during my summer break in 2018. Learned about and worked on CNC machines and encoders. 
-:project:
-Technical Experience
+
+💻:
+
+PROJECTS
 --------------------
 
-My Cool Side Project
+Traffic Management Using Image Processing
 :   For items which don't have a clear time ordering, a definition
     list can be used to have named items.
 
