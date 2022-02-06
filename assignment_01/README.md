@@ -5,9 +5,9 @@ Praharsh Kolluri
 ============
 
 -------------------     ----------------------------
-667-273-0995                        praharshkolluri@gmail.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+
+PH : 667-273-0995                       email-praharshkolluri@gmail.com
+
 -------------------     ----------------------------
 
 Education
