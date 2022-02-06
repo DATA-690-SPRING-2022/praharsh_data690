@@ -11,7 +11,7 @@ Contact Info :
 - email - praharshkolluri@gmail.com
 
 -------------------     ----------------------------
-:wave:
+📖:
 Education
 ---------
 
