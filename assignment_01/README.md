@@ -1,2 +1,2 @@
 # This is for assignment_01
-![Headshot_resume]
+![C:\Users\Admin\Downloads/Headshot_resume]
