@@ -68,4 +68,4 @@ Digital Correlator
 * Love photography.
 * Interested in Geostatistics.
 
-* Likes to keep life simple.*
+*Keep life simple.*
