@@ -64,7 +64,7 @@ Digital Correlator
 🖐️:More about Me
 ----------------------------------------
 
-* Human Languages:
+* I'm from India.
 
      * English (native speaker)
      * ???
