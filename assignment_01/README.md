@@ -38,7 +38,7 @@ Experience
 **DRDO - DEFENCE RESEARCH AND DEVELOPMENT ORGANISATION**
 :
 
-    * Worked as an intern at DRDO during my summer break in 2018. Learned about and worked on CNC machines and encoders. 
+     Worked as an intern at DRDO during my summer break in 2018. Learned about and worked on CNC machines and encoders. 
 
 
 
@@ -48,18 +48,18 @@ Experience
 Traffic Management Using Image Processing
 :   
 
-    * Developed a system where traffic can be efficiently managed at intersections using Image Processing.
+     Developed a system where traffic can be efficiently managed at intersections using Image Processing.
 
     
 Data Logger
 :
 
-    * Built a Data Logger to keep track of parameters such as temperature, pressure, humidity and warn incase of emergency. 
+     Built a Data Logger to keep track of parameters such as temperature, pressure, humidity and warn incase of emergency. 
 
 Digital Correlator
 :   
 
-    * A Correlator compares two different sequences of signals and then determine how closely the sequences resemble each other, helps to detect particular patterns in data streams & time delay between two digital sequences.
+     A Correlator compares two different sequences of signals and then determine how closely the sequences resemble each other, helps to detect particular patterns in data streams & time delay between two digital sequences.
 
 Extra Section, Call it Whatever You Want
 ----------------------------------------
