@@ -1,2 +1,2 @@
 # This is for assignment_01
-![](/assignment_01/Headshot_resume-03)
+![](/assignment_01/Headshot_resume-03.jpeg)
