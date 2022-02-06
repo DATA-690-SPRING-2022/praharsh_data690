@@ -15,8 +15,8 @@
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2021-2023 (expected)
+:   **Masters, Data Science**; University of Maryland Baltimore County
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
