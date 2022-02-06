@@ -6,9 +6,9 @@
 
 -------------------     ----------------------------
 
-Contact Info :
+
 - Phone - 667-273-0995
-- email - praharshkolluri@gmail.com
+- Email - praharshkolluri@gmail.com
 
 -------------------     ----------------------------
 📖:
