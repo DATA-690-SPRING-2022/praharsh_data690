@@ -39,7 +39,7 @@ Worked as an intern at DRDO during my summer break in 2018. Learned about and wo
 
 
 
-:computer:PROJECTS
+💻::PROJECTS
 --------------------
 
 Traffic Management Using Image Processing
