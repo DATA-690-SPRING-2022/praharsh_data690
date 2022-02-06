@@ -31,7 +31,7 @@ Experience
 **Amazon Robotics**
 :  
 
-    ** Worked as an ML Data Associate for Amazon Robotics where we used computer vision and AI to automate the Amazon fulfilment centers.
+     Worked as an ML Data Associate for Amazon Robotics where we used computer vision and AI to automate the Amazon fulfilment centers.
    
 
 
