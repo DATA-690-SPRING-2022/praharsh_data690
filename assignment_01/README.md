@@ -21,9 +21,9 @@ Education
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2015-2019
+:   **Bachelor of Technology, Electronics and Computer Engineering**; GITAM University
+   
 
     *Minor: Awesomeology*
 
