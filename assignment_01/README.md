@@ -6,8 +6,9 @@
 :wave: Hi, I'm a graduate student at UMBC studying Data Science. 
 -------------------     ----------------------------
 
-
+📞:
 - Phone - 667-273-0995
+📬:
 - Email - praharshkolluri@gmail.com
 
 -------------------     ----------------------------
