@@ -24,7 +24,7 @@ Education
    
 
  
-📊: :computer:
+📊:
 Experience
 ----------
 
