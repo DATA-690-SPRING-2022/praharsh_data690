@@ -37,9 +37,9 @@ Worked as an ML Data Associate for Amazon Robotics where we used computer vision
 
 Worked as an intern at DRDO during my summer break in 2018. Learned about and worked on CNC machines and encoders. 
 
-💻:
 
-PROJECTS
+
+:computer:PROJECTS
 --------------------
 
 Traffic Management Using Image Processing
