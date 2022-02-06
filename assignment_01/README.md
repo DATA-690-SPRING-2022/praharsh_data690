@@ -1,4 +1,4 @@
-# This is for assignment_01
+# Resume
 ![](/assignment_01/Headshot_resume-03.jpeg)
 
 :man:Praharsh Kolluri
