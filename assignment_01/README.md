@@ -31,14 +31,14 @@ Experience
 **Amazon Robotics**
 :  
 
-   * Worked as an ML Data Associate for Amazon Robotics where we used computer vision and AI to automate the Amazon fulfilment centers.
+    * Worked as an ML Data Associate for Amazon Robotics where we used computer vision and AI to automate the Amazon fulfilment centers.
    
 
 
 **DRDO - DEFENCE RESEARCH AND DEVELOPMENT ORGANISATION**
 :
 
-  * Worked as an intern at DRDO during my summer break in 2018. Learned about and worked on CNC machines and encoders. 
+    * Worked as an intern at DRDO during my summer break in 2018. Learned about and worked on CNC machines and encoders. 
 
 
 
