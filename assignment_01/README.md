@@ -36,8 +36,9 @@ Experience
 
 
 **DRDO - DEFENCE RESEARCH AND DEVELOPMENT ORGANISATION**
+:
 
-Worked as an intern at DRDO during my summer break in 2018. Learned about and worked on CNC machines and encoders. 
+  * Worked as an intern at DRDO during my summer break in 2018. Learned about and worked on CNC machines and encoders. 
 
 
 
