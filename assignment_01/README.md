@@ -63,13 +63,7 @@ Digital Correlator
 
 🖐️:More about Me
 ----------------------------------------
-
-* I'm from India.
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+* Learning Python, SQL and new techniques in Data Science.
+* Likes to explore new places and try new food.
+* Love photography.
+* Interested in Geostatistics.
