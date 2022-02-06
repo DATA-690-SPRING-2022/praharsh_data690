@@ -11,8 +11,8 @@
 - 📬:Email - praharshkolluri@gmail.com
 
 -------------------     ----------------------------
-*📖:
-Education*
+📖:
+Education
 ---------
 
 2021-2023 (expected)
