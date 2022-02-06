@@ -61,7 +61,7 @@ Digital Correlator
 
      A Correlator compares two different sequences of signals and then determine how closely the sequences resemble each other, helps to detect particular patterns in data streams & time delay between two digital sequences.
 
-Extra Section, Call it Whatever You Want
+:wavw:More about Me
 ----------------------------------------
 
 * Human Languages:
