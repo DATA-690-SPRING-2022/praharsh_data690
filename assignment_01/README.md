@@ -16,14 +16,14 @@ Education
 ---------
 
 2021-2023 (expected)
-:   **Masters, Data Science**; University of Maryland Baltimore County
+:   **Masters, Data Science**, University of Maryland Baltimore County.
 
 
 2015-2019
-:   **Bachelor of Technology, Electronics and Computer Engineering**; GITAM University
+:   **Bachelor of Technology, Electronics and Computer Engineering**, GITAM University
    
 
-    *Minor: Awesomeology*
+ 
 
 Experience
 ----------
