@@ -67,4 +67,5 @@ Digital Correlator
 * Likes to explore new places and try new food.
 * Love photography.
 * Interested in Geostatistics.
-* Likes to keep life simple.
+
+* Likes to keep life simple.*
