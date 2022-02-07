@@ -69,3 +69,5 @@ Digital Correlator
 * Interested in Geostatistics.
 
 *Keep life simple.*
+
+Reference - https://mszep.github.io/pandoc_resume/
