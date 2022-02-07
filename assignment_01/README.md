@@ -20,7 +20,7 @@ Education
 
 
 2015-2019
-:   **Bachelor of Technology, Electronics and Computer Engineering**, GITAM University
+:   **Bachelor of Technology, Electronics and Computer Engineering**, GITAM University.
    
 
  
