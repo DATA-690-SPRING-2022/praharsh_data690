@@ -64,10 +64,10 @@ Digital Correlator
 🖐️:More about Me
 ----------------------------------------
 * Learning Python, SQL and new techniques in Data Science.
-* Likes to explore new places and try new food.
+* Like to explore new places and try new food.
 * Love photography.
 * Interested in Geostatistics.
 
 *Keep life simple.*
 
-Reference - https://mszep.github.io/pandoc_resume/
+Reference for markdown format - https://mszep.github.io/pandoc_resume/
